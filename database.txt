@@ -1,0 +1,5 @@
+121.23.20.5 www.iitg.ernet.in
+69.24.34.23 www.iitb.ernet.in
+142.23.67.78 www.iitd.ernet.in
+54.65.78.11 www.iitk.ernet.in
+92.34.67.74 www.iitm.ernet.in
